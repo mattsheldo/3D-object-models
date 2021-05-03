@@ -7,7 +7,7 @@ This is a class project I did for my computer graphics class. The program takes 
 Use Git to clone the repository and run the program. On your machine navigate to your desired folder and run the following command.
 
 ```bash
-git clone 
+git clone https://github.com/mattsheldo/3D-object-models.git
 ```
 Once you have the repository cloned on your machine you can run the following commands to compile and run the code.
 There is a make file included in the repository so to compile all you need to do is type the make in the command line.
