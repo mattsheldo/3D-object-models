@@ -2,26 +2,6 @@
 
 This is a class project I did for my computer graphics class. The program takes in an obj file which contains x, y, and z coordinates for the vertices that make up the object. All the vertices are connected by edges so that a basic 3D image is created. Once the image is created there are three different modes that can be used to manipulate the model. The three modes are rotation, translation, and Scaling.
 
-## Try it out yourself!
-
-Use Git to clone the repository and run the program. On your machine navigate to your desired folder and run the following command.
-
-```bash
-git clone https://github.com/mattsheldo/3D-object-models.git
-```
-Once you have the repository cloned on your machine you can run the following commands to compile and run the code.
-There is a make file included in the repository so to compile all you need to do is type the make in the command line.
-
-```bash
-make 
-```
-Once the code is compiled you run it by using the following command.
-
-```bash
-./3Dmodeler <name_of_file>.obj
-```
-You can use any obj file when running the program but I have included 3 obj files for you to use.
-
 ## Usage
 
 Once the program is compiled and run a window should pop up that displays the model. Once the model is displayed you can use the E, R, and T buttons to change modes. Once you have selected a mode you use the W, A, S, and D to manipulate the model.
@@ -43,3 +23,23 @@ You can switch back and forth between all modes at anytime so that you can combi
 ### Example Using the whale.obj File
 
 ![image](https://user-images.githubusercontent.com/83359136/116893878-769ddf00-abff-11eb-86ca-c5bd58a1e34e.png)
+
+## Try it out yourself!
+
+Use Git to clone the repository and run the program. On your machine navigate to your desired folder and run the following command.
+
+```bash
+git clone https://github.com/mattsheldo/3D-object-models.git
+```
+Once you have the repository cloned on your machine you can run the following commands to compile and run the code.
+There is a make file included in the repository so to compile all you need to do is type the make in the command line.
+
+```bash
+make 
+```
+Once the code is compiled you run it by using the following command.
+
+```bash
+./3Dmodeler <name_of_file>.obj
+```
+You can use any obj file when running the program but I have included 3 obj files for you to use.
