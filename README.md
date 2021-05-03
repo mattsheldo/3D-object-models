@@ -41,6 +41,5 @@ By Pressing T you enter the translation mode. When in translation mode the W key
 You can switch back and forth between all modes at anytime so that you can combine rotations with translations and changes in scale.
 
 ### Example Using the whale.obj File
-e
 
 ![image](https://user-images.githubusercontent.com/83359136/116893878-769ddf00-abff-11eb-86ca-c5bd58a1e34e.png)
