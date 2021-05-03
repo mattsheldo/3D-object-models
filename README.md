@@ -1,5 +1,7 @@
 # 3D-object-models
 
+<img src="https://user-images.githubusercontent.com/83359136/116893235-b9ab8280-abfe-11eb-8c0e-4ada778b6fbd.png" width="400" height="400"/>
+
 This is a class project I did for my computer graphics class. The program takes in an obj file which contains x, y, and z coordinates for the vertices that make up the object. All the vertices are connected by edges so that a basic 3D image is created. Once the image is created there are three different modes that can be used to manipulate the model. The three modes are rotation, translation, and Scaling.
 
 ## Try it out yourself!
