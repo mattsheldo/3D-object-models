@@ -24,9 +24,9 @@ You can use any obj file when running the program but I have included 3 obj file
 
 ## Usage
 
-Once the program is compiled and run a window should pop up that displays the model. Once the model is displayed you can use the 'E', 'R', and 'T' buttons to change modes. Once you have selected a mode you use the W, A, S, and D to manipulate the model.
+Once the program is compiled and run a window should pop up that displays the model. Once the model is displayed you can use the E, R, and T buttons to change modes. Once you have selected a mode you use the W, A, S, and D to manipulate the model.
 
-By pressing 'E' you enter the scale mode. When in scale mode the A and D keys increase the size of the model and the W and the S keys decrease the size of the model.
+By pressing E you enter the scale mode. When in scale mode the A and D keys increase the size of the model and the W and the S keys decrease the size of the model.
 
 By pressing R you enter the rotation mode. When in rotation mode the W key rotates the model upwards, the A key rotates the model left, the S key rotates the model downward, and the D key rotates the model right.
 
