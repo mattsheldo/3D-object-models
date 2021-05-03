@@ -1,7 +1,5 @@
 # 3D-object-models
 
-<img src="https://user-images.githubusercontent.com/83359136/116893235-b9ab8280-abfe-11eb-8c0e-4ada778b6fbd.png" width="400" height="400"/>
-
 This is a class project I did for my computer graphics class. The program takes in an obj file which contains x, y, and z coordinates for the vertices that make up the object. All the vertices are connected by edges so that a basic 3D image is created. Once the image is created there are three different modes that can be used to manipulate the model. The three modes are rotation, translation, and Scaling.
 
 ## Try it out yourself!
@@ -41,3 +39,4 @@ By pressing R you enter the rotation mode. When in rotation mode the W key rotat
 By Pressing T you enter the translation mode. When in translation mode the W key moves the model upwards, the A key moves the model left, the S key moves the model down, and the D key moves the model right.
 
 You can switch back and forth between all modes at anytime so that you can combine rotations with translations and changes in scale.
+![image](https://user-images.githubusercontent.com/83359136/116893878-769ddf00-abff-11eb-86ca-c5bd58a1e34e.png)
